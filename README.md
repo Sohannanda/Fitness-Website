@@ -5,4 +5,4 @@ This is a landing page created for people to contact fitness coach by filling up
 
 
 
-![Alt text](https://github.com/Sohannanda/Sales-Insights-Data-Analysis-Project/blob/master/sales%20insight.PNG)
+![Alt text](https://github.com/Sohannanda/Fitness-Website/blob/main/web%20img.PNG)
