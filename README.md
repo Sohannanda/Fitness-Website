@@ -1,5 +1,5 @@
 # Fitness-Website
-This is a landing page created for people to contact fitness coach by filling up the form
+This is a Web page created by using HTML5 and CSS3 for people to contact fitness coach by filling up the form
 
 
 
